@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Missing Semester of Your CS Education
+title: الفصل الدّراسي المفقود من دراستك لعلوم الكمبيوتر
 ---
 
 Classes teach you all about advanced topics within CS, from operating systems
