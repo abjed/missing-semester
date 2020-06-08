@@ -3,11 +3,7 @@ layout: page
 title: الفصل الدّراسي المفقود من دراستك لعلوم الكمبيوتر
 ---
 
-Classes teach you all about advanced topics within CS, from operating systems
-to machine learning, but there’s one critical subject that’s rarely covered,
-and is instead left to students to figure out on their own: proficiency with
-their tools. We’ll teach you how to master the command-line, use a powerful
-text editor, use fancy features of version control systems, and much more!
+تتعمّك أثناء دراستك لعلوم الكمبيوتر الكثير من الموضوعات المتقدمة ، بدءًا من أنظمة التشغيل إلى التعلم الآلي ، ولكن هناك موضوعًا مهمًا نادرًا ما تتم تغطيته ، وبدلاً من ذلك يُترك للطلاب ليكتشفوه بأنفسهم عند دخولهم سوق الشغل: و هذا الموضوع هو إتقان إستعمال أدوات البرمجة. سنعلمك في التّالي كيفية إتقان سطر الأوامر ، واستخدام محرر نصوص قوي ، واستخدام الميزات الرائعة لأنظمة التحكم في الإصدار ، وأكثر من ذلك بكثير!
 
 Students spend hundreds of hours using these tools over the course of their
 education (and thousands over their career), so it makes sense to make the
